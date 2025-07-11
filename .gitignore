@@ -1,0 +1,28 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+.env.development
+
+# WiFi credentials
+wifi_credentials.txt
+secrets.txt
+
+# API keys
+api_keys.txt
+keys.txt
+
+# Build artifacts
+build/
+*.hex
+*.bin
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
