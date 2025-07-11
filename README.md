@@ -2,8 +2,8 @@
 
 A GPS-synchronized 24-hour LED clock that automatically displays sunrise and sunset times for your location. Built with ESP32 and WS2812B addressable LEDs.
 
-![Sun Clock Demo](images/sun_clock_demo.jpg)
-*Photo coming soon - upload your own Sun Clock photo here!*
+![Sun Clock](images/Sun-clock.jpg)
+*Erick's Sun Clock in action - GPS-synchronized LED display showing the 24-hour cycle*
 
 ## ✨ Features
 

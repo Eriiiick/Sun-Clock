@@ -22,9 +22,7 @@ When adding photos:
 
 ## Current Images
 
-- `sun_clock_demo.jpg` - Main project photo (placeholder - add yours!)
-- `wiring_diagram.png` - Hardware connection diagram (to be added)
-- `led_patterns.gif` - Animated LED display examples (to be added)
+- `Sun-clock.jpg` - Erick's Sun Clock build showing the GPS-synchronized LED display
 
 ## Contributing Images
 
